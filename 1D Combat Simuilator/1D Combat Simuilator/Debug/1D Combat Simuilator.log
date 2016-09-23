@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\visual studio projects\learning with ben tutorial videos\1d combat simuilator\1d combat simuilator\main.cpp(67): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  1D Combat Simuilator.vcxproj -> F:\Visual Studio Projects\Learning with Ben Tutorial Videos\1D Combat Simuilator\Debug\1D Combat Simuilator.exe
+  1D Combat Simuilator.vcxproj -> F:\Visual Studio Projects\Learning with Ben Tutorial Videos\1D Combat Simuilator\Debug\1D Combat Simuilator.pdb (Partial PDB)

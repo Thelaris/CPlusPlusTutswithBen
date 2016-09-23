@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\visual studio projects\learning with ben tutorial videos\tutorial\tutorial\main.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tutorial.vcxproj -> F:\Visual Studio Projects\Learning with Ben Tutorial Videos\Tutorial\Debug\Tutorial.exe
+  Tutorial.vcxproj -> F:\Visual Studio Projects\Learning with Ben Tutorial Videos\Tutorial\Debug\Tutorial.pdb (Partial PDB)
