@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(67): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  14 of 34 functions (41.2%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  1D Combat Simuilator.vcxproj -> F:\Visual Studio Projects\Learning with Ben Tutorial Videos\1D Combat Simuilator\Release\1D Combat Simuilator.exe
+  1D Combat Simuilator.vcxproj -> F:\Visual Studio Projects\Learning with Ben Tutorial Videos\1D Combat Simuilator\Release\1D Combat Simuilator.pdb (Full PDB)
