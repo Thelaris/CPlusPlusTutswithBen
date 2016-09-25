@@ -1,0 +1,4 @@
+﻿  GameManager.cpp
+f:\visual studio projects\learning with ben tutorial videos\tictactoe\tictactoe\gamemanager.cpp(164): warning C4715: 'GameManager::playGame': not all control paths return a value
+  TicTacToe.vcxproj -> F:\Visual Studio Projects\Learning with Ben Tutorial Videos\TicTacToe\Debug\TicTacToe.exe
+  TicTacToe.vcxproj -> F:\Visual Studio Projects\Learning with Ben Tutorial Videos\TicTacToe\Debug\TicTacToe.pdb (Partial PDB)
